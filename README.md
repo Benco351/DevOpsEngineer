@@ -9,7 +9,7 @@
 -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![StackOverFlow][Stack-shield]
+[![StackOverFlow][Stack-shield]][Stack-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -81,4 +81,4 @@ Linkedin: [https://www.linkedin.com/in/devops-ben-cohen/](https://www.linkedin.c
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/devops-ben-cohen/
 [Stack-shield]: https://img.shields.io/twitter/url?color=orange&label=StackOverFlow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F16339848%2Fben-cohen%3Ftab%3Dquestions
-
+[Stack-url]: https://stackoverflow.com/users/16339848/ben-cohen?tab=questions
