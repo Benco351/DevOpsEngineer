@@ -69,10 +69,13 @@ A mobility package long for a 30 days , so i save the date, time and phone numbe
 ## Usage
 Logs are all over the projects and ensure the reliabillity of the system
 <br />
-<p align="center">
-    <img src="images/LOGS.png" alt="Logs" width="80" height="80">
+<p align="left">
+    <img src="images/LOGS.png" alt="Logs" width="500" height="240">
   </a>
-<br />
+<h3>Example of the SMS output to the costumer arranged with all the information that scraped from the manager order page.</h3>
+<p align="right">
+    <img src="images/Sms.png" alt="SMS" width="400 height="240">
+  </a>
 <!-- LICENSE -->
 ## License
 
