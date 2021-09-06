@@ -7,25 +7,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+![StackOverFlow][Stack-shield]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+</p>
   <h3 align="center">Selnium project</h3>
-
-
-
+ 
+ 
+ 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -37,11 +31,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -65,61 +55,30 @@ A mobility package long for a 30 days , so i save the date, time and phone numbe
 * [Chrome driver](https://chromedriver.chromium.org/downloads)
 * [Twillio](https://www.twilio.com/messaging)
 
+
 <!-- USAGE EXAMPLES -->
 ## Usage
-Logs are all over the projects and ensure the reliabillity of the system
+<h3>Logs are all over the projects and ensure the reliabillity of the system</h3>
 <br />
 <p align="left">
-    <img src="images/LOGS.png" alt="Logs" width="500" height="240">
-  </a>
-<h3>Example of the SMS output to the costumer arranged with all the information that scraped from the manager order page.</h3>
-<p align="right">
-    <img src="images/Sms.png" alt="SMS" width="400 height="240">
-  </a>
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+    <img src="images/LOGS.png" alt="Logs" width="300" height="140">
+</p>
+<h2>Example of the SMS output to the costumer arranged with all the information that scraped from the manager order page.</h2>
+<h3>Registerd ALPHANUMERIC name for the Twillio API phone number</h3>
+<p align="left">
+    <img src="images/Sms.jpg" alt="SMS" width="300 height="140">                                                        
+</p>
 
 <!-- CONTACT -->
 ## Contact
 Project Link: [https://github.com/Benco351/DevOpsEngineer](https://github.com/Benco351/DevOpsEngineer)
+                                                               
 Linkedin: [https://www.linkedin.com/in/devops-ben-cohen/](https://www.linkedin.com/in/devops-ben-cohen/)
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/devops-ben-cohen/
+[Stack-shield]: https://img.shields.io/twitter/url?color=orange&label=StackOverFlow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F16339848%2Fben-cohen%3Ftab%3Dquestions
 
