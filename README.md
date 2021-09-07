@@ -68,6 +68,8 @@ A mobility package long for a 30 days , so i save the date, time and phone numbe
 <p align="left">
     <img src="images/Sms.jpg" alt="SMS" width="300 height="140">                                                        
 </p>
+*Importent* The ## TwentyDAysPhoneList.csv ##- perform as the database of the phonenumbers that already got the first message with *Send28DaysSMS func* i evaluate how much time left for the costumer package that relevant to the exact phone number to finish and then sends the costumer a reminder for renew/throw the telecart to recycle bin.
+                                                               
 
 <!-- CONTACT -->
 ## Contact
